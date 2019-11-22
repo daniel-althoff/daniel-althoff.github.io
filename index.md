@@ -15,11 +15,10 @@
 <img src="/images/Manuscript_EToh_ETod.jpg?raw=true"/>
 
 ---
-[The expansion of center-pivot in the Cerrado biome](/pdf/IRRIGA_pivot_expansion.pdf)
-<img src="images/Cerrado_CenterPivot.png?raw=true"/>
+<a href="/pdf/IRRIGA_pivot_expansion.pdf" target="blank">The expansion of center-pivot in the Cerrado biome</a>
+<img src="images/Cerrado_CenterPivot.png?raw=true"/>{:height="50%" width="50%"}
 
 
-<a href="/pdf/IRRIGA_pivot_expansion.pdf" target="blank">[The expansion of center-pivot in the Cerrado biome]</a>
 ---
 <!--
 [Project 2 Title](/sample_page)
