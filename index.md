@@ -12,12 +12,12 @@
 
 ---
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170" target="blank">Sum-of-hourly vs. daily reference evapotranspiration across the Brazilian territory</a>
-<img src="/images/Manuscript_EToh_ETod.jpg?raw=true"/>
+<img width="75%" src="/images/Manuscript_EToh_ETod.jpg?raw=true"/>
 
 ---
 <a href="/pdf/IRRIGA_pivot_expansion.pdf" target="blank">The expansion of center-pivot in the Cerrado biome</a><br><br>
 <center>
-  <img width="50%" src="images/Cerrado_CenterPivot.png?raw=true"/>
+  <img width="75%" src="images/Cerrado_CenterPivot.png?raw=true"/>
 </center>
 
 ---
