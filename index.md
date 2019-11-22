@@ -16,8 +16,9 @@
 
 ---
 <a href="/pdf/IRRIGA_pivot_expansion.pdf" target="blank">The expansion of center-pivot in the Cerrado biome</a><br><br>
-<img width="50%" src="images/Cerrado_CenterPivot.png?raw=true"/>
-
+<center>
+  <img width="50%" src="images/Cerrado_CenterPivot.png?raw=true"/>
+</center>
 
 ---
 <!--
