@@ -3,7 +3,7 @@
 ---
 
 ### Research publications 
-[Improvement of Hargreaves-Samani reference evapotranspiration estimates with local calibration](https://www.mdpi.com/2073-4441/11/11/2272){rel=external}
+[Improvement of Hargreaves-Samani reference evapotranspiration estimates with local calibration](https://www.mdpi.com/2073-4441/11/11/2272)
 
 ---
 [The expansion of center-pivot in the Cerrado biome](/pdf/IRRIGA_pivot_expansion.pdf)
