@@ -4,13 +4,15 @@
 
 ### Research publications 
 
-[The expansion of center-pivot in the Cerrado biome](http://revistas.fca.unesp.br/index.php/irriga/article/view/3889/2528)
-#<a href="http://revistas.fca.unesp.br/index.php/irriga/article/view/3889/2528" target="blank">
-<img src="images/Cerrado_CenterPivot.png?raw=true"/>
-#</a>
+[Improvement of Hargreaves-Samani reference evapotranspiration estimates with local calibration](/pdf/Water_HS_Improvement.pdf)
+- [Original source](https://www.mdpi.com/2073-4441/11/11/2272)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[The expansion of center-pivot in the Cerrado biome](http://revistas.fca.unesp.br/index.php/irriga/article/view/3889/2528)
+<img src="images/Cerrado_CenterPivot.png?raw=true"/>
+
+---
+[Project 2 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
