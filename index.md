@@ -2,6 +2,12 @@
 
 ---
 
+### What are the impacts of using hourly vs daily averages on computing reference evapotranspiration?
+[Link to publication](/https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170)
+<img src="/images/Manuscript_EToh_ETod.png?raw=true"/>
+teste
+---
+
 ### Research publications 
 [Improvement of Hargreaves-Samani reference evapotranspiration estimates with local calibration](https://www.mdpi.com/2073-4441/11/11/2272)
 
