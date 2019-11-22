@@ -11,7 +11,7 @@
 <a href="https://www.mdpi.com/2073-4441/11/11/2272" target="blank">Improvement of Hargreaves-Samani reference evapotranspiration estimates with local calibration</a>
 
 ---
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170" target="blank">Sum-of-hourly vs. daily reference evapotranspiration across the Brazilian territory</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170" target="blank">Sum-of-hourly vs. daily reference evapotranspiration across the Brazilian territory</a><br><br>
 <img width="75%" src="/images/Manuscript_EToh_ETod.jpg?raw=true"/>
 
 ---
