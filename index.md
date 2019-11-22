@@ -2,10 +2,11 @@
 
 ---
 
-### What are the impacts of using hourly vs daily averages on computing reference evapotranspiration?
+### Meteorological data - hourly vs daily averages
+Comparing sum-of-hourly and daily reference evapotranspiration across the Brazilian territory
 [Link to publication](/https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170)
 <img src="/images/Manuscript_EToh_ETod.png?raw=true"/>
-teste
+
 ---
 
 ### Research publications 
