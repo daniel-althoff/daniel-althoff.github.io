@@ -3,14 +3,16 @@
 ---
 
 ### Meteorological data - hourly vs daily averages
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170" target="blank">Sum-of-hourly vs. daily reference evapotranspiration across the Brazilian territory</a>
 
-<img src="/images/Manuscript_EToh_ETod.jpg?raw=true"/>
 
 ---
 
 ### Research publications 
 <a href="https://www.mdpi.com/2073-4441/11/11/2272" target="blank">Improvement of Hargreaves-Samani reference evapotranspiration estimates with local calibration</a>
+
+---
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170" target="blank">Sum-of-hourly vs. daily reference evapotranspiration across the Brazilian territory</a>
+<img src="/images/Manuscript_EToh_ETod.jpg?raw=true"/>
 
 ---
 [The expansion of center-pivot in the Cerrado biome](/pdf/IRRIGA_pivot_expansion.pdf)
