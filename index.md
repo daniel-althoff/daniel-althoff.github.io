@@ -4,8 +4,10 @@
 
 ### Visualizing data 
 
-[Center-pivot expansion in the Cerrado biome](/sample_page)
+[Center-pivot expansion in the Cerrado biome]
+<a href="http://revistas.fca.unesp.br/index.php/irriga/article/view/3889/2528" target="blank">
 <img src="images/Cerrado_CenterPivot.png?raw=true"/>
+</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
