@@ -4,8 +4,9 @@
 
 ### Meteorological data - hourly vs daily averages
 Sum-of-hourly vs. daily reference evapotranspiration across the Brazilian territory
+
 [Manuscript](/https://www.sciencedirect.com/science/article/abs/pii/S0378377419310170)
-<img src="/images/Manuscript_EToh_ETod.png?raw=true"/>
+<img src="/images/Manuscript_EToh_ETod.jpg?raw=true"/>
 
 ---
 
