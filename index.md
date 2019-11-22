@@ -1,8 +1,8 @@
-## Portfolio [...under construction...]
+## Portfolio [*...under construction...*]
 
 ---
 
-### Meteorological data - hourly vs daily averages
+### Dashboards [*...under construction...*]
 
 
 ---
