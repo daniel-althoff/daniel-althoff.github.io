@@ -1,11 +1,11 @@
-## Portfolio
+## Portfolio [under construction]
 
 ---
 
-### Category Name 1 
+### Visualizing data 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Center-pivot expansion in the Cerrado biome](/sample_page)
+<img src="images/Cerrado_CenterPivot.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
