@@ -1,4 +1,4 @@
-[Go back](/)
+[Go back](/)<br>
 [Original Easy-ETo page](https://github.com/danielalthoff/Easy-ETo/)
 
 <div class="fluid-row" id="header">
