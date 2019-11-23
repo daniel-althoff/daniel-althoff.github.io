@@ -8,7 +8,7 @@
 ---
 
 ### Scientific publications 
-[Access](/research_pub)
+[Access](/pages/research_pub)
 
 ---
 <!--
