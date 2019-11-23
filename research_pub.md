@@ -3,7 +3,9 @@
 **The manuscripts are according to the following format:**<br><br>
 AUTHORS. **Manuscript title**. _Journal_. volume(issue), pages, year. 
 
-<a href="http://dx.doi.org/10.1016/j.agwat.2019.105785", target='blank'>[ALTHOFF, DANIEL; FILGUEIRAS, ROBERTO ; DIAS, SANTOS HENRIQUE BRANT ; RODRIGUES, LINEU NEIVA . **Impact of sum-of-hourly and daily timesteps in the computations of reference evapotranspiration across the Brazilian territory**. _AGRICULTURAL WATER MANAGEMENT_, v. 226, p. 105785, 2019]</a>
+<a href="http://dx.doi.org/10.1016/j.agwat.2019.105785", target='blank'>
+  [ALTHOFF, DANIEL; FILGUEIRAS, ROBERTO ; DIAS, SANTOS HENRIQUE BRANT ; RODRIGUES, LINEU NEIVA . **Impact of sum-of-hourly and daily timesteps in the computations of reference evapotranspiration across the Brazilian territory**. _AGRICULTURAL WATER MANAGEMENT_, v. 226, p. 105785, 2019]
+</a>
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
