@@ -41,7 +41,7 @@ pacman::p_load(shiny, readxl, writexl, dplyr, tidyr,  ggplot2, ggpmisc, lubridat
 runGitHub("Easy-ETo", "danielalthoff")
 ```
 
-<img src="./misc/app_1.png"
+<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_1.png"
      style="float: left; margin-right: 10px;" />
     
 <h4>2. Provide the weather station <b>latitude</b> and <b>altitude</b></h4>
