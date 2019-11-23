@@ -41,7 +41,7 @@ pacman::p_load(shiny, readxl, writexl, dplyr, tidyr,  ggplot2, ggpmisc, lubridat
 runGitHub("Easy-ETo", "danielalthoff")
 ```
 
-<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_1.png"
+<img src="/images/Easy-ETo/app_1.png"
      style="float: left; margin-right: 10px;" />
     
 <h4>2. Provide the weather station <b>latitude</b> and <b>altitude</b></h4>
@@ -53,7 +53,7 @@ runGitHub("Easy-ETo", "danielalthoff")
 <p> Download the <a href="https://github.com/danielalthoff/Easy-ETo/raw/master/Sample.xlsx" target="blank">template</a> and use it as reference<br>
     Your excel file should look like this:</p>
 
-<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_2.png"
+<img src="/images/Easy-ETo/app_2.png"
      style="float: left; margin-right: 10px;" />
      
 <p>Make sure your variables are in the following units:</p>
@@ -72,7 +72,7 @@ runGitHub("Easy-ETo", "danielalthoff")
     <li><b>Data summary</b>: provides boxplots for each meteorological variable and for the different reference evapotranspiration methods</li>
 </ul>
 
-<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_3.png"
+<img src="/images/Easy-ETo/app_3.png"
      style="float: left; margin-right: 10px;" />
      
 * <b>Compare ETo methods</b>: provides the reference evapotranspiration methods <em>Time-series</em> and <em>scatterplots</em> with the following metrics:
@@ -82,7 +82,7 @@ runGitHub("Easy-ETo", "danielalthoff")
     * OLS = ordinary least squares regression;
     * FTO = fitted to the origin regression.
     
-<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_4.png"
+<img src="/images/Easy-ETo/app_4.png"
      style="float: left; margin-right: 10px;" />
 
 <h4>5. Download the Excel file with ETo data</h4>
