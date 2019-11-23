@@ -87,7 +87,7 @@ runGitHub("Easy-ETo", "danielalthoff")
      style="float: left; margin-right: 10px;" />
 
 <h4>5. Download the Excel file with ETo data</h4>
-<p>The <b>download button</b> appears a few seconds after the Excel file upload completes.
+<p>The <b>download button</b> appears a few seconds after the Excel file upload completes.</p>
     
 <h4>Enjoy!</h4>
 <br>
