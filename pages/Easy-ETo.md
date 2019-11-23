@@ -1,5 +1,5 @@
-[Go back](/)<br>
-[Original Easy-ETo page](https://github.com/danielalthoff/Easy-ETo/)
+[Go back](/)<br><br>
+<a href='https://github.com/danielalthoff/Easy-ETo/' target='blank'>Easy-ETo GitHub page</a>
 
 <div class="fluid-row" id="header">
     <img src='/images/Easy-ETo/img.png' height='150' width='auto' align='right'>
@@ -90,7 +90,6 @@ runGitHub("Easy-ETo", "danielalthoff")
 <p>The <b>download button</b> appears a few seconds after the Excel file upload completes.
     
 <h4>Enjoy!</h4>
-:smile:
 <br>
 
 # References
