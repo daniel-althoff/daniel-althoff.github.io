@@ -2,7 +2,10 @@
 
 ---
 
-### Dashboards [*...under construction...*]
+### Dashboards/Apps [*...under construction...*]
+- [Easy Reference Evanpotranspiration](https://github.com/danielalthoff/Easy-ETo).
+Easy Reference Evapotranspiration (Easy-ETo) is a ShinyApp developed to compute reference evapotranspiration (ETo) according to different methods. <br> 
+The user uploads an excel file (.xlsx) and is prompted with different visualizations of given data. The app computes ETo and provide the user an option to download the data.
 
 ---
 
