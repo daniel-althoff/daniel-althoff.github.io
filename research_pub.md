@@ -11,7 +11,7 @@ AUTHORS. **Manuscript title**. _Journal_. volume(issue), page(s), year.
 
 - <a href="http://dx.doi.org/10.3390/w11112272" target='blank'>ALTHOFF, D.; SANTOS, R. A.; BAZAME, H. CO.; CUNHA, F. F.; FILGUEIRAS, R. **Improvement of Hargreaves-Samani Reference Evapotranspiration Estimates with Local Calibration**. _Water_, v. 11, p. 2272, 2019.</a>
 
-- <a href="http://dx.doi.org/10.3390/w11091942" target='blank'ALTHOFF, D.; RODRIGUES, L. N.; SILVA, D. D. **Evaluating Evaporation Methods for Estimating Small Reservoir Water Surface Evaporation in the Brazilian Savannah**. _Water_, v. 11, p. 1942, 2019.</a>
+- <a href="http://dx.doi.org/10.3390/w11091942" target='blank'>ALTHOFF, D.; RODRIGUES, L. N.; SILVA, D. D. **Evaluating Evaporation Methods for Estimating Small Reservoir Water Surface Evaporation in the Brazilian Savannah**. _Water_, v. 11, p. 1942, 2019.</a>
 
 - <a href="http://dx.doi.org/10.1590/1413-70542018423006818" target='blank'>ALTHOFF, D.; BAZAME, H. C.; FILGUEIRAS, R.; DIAS, S. H. B. **Heuristic methods applied in reference evapotranspiration modeling**. _Ciência e Agrotecnologia_, v. 42, p. 314-324, 2018.</a>
 
