@@ -1,6 +1,8 @@
-## This can be your internal website page / project page
+## Scientific publications
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**The manuscripts are according to the following format:** AUTHORS. **Manuscript title**. _Journal_. volume(issue), pages, year. 
+
+- <a href='http://dx.doi.org/10.1016/j.agwat.2019.105785', target='blank'>ALTHOFF, DANIEL; FILGUEIRAS, ROBERTO ; DIAS, SANTOS HENRIQUE BRANT ; RODRIGUES, LINEU NEIVA . **Impact of sum-of-hourly and daily timesteps in the computations of reference evapotranspiration across the Brazilian territory**. _AGRICULTURAL WATER MANAGEMENT_, v. 226, p. 105785, 2019</a>
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
