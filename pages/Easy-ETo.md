@@ -1,4 +1,5 @@
 [Go back](/)
+[Original Easy-ETo page](https://github.com/danielalthoff/Easy-ETo/)
 
 <div class="fluid-row" id="header">
     <img src='/images/Easy-ETo/img.png' height='150' width='auto' align='right'>
@@ -90,6 +91,7 @@ runGitHub("Easy-ETo", "danielalthoff")
     
 <h4>Enjoy!</h4>
 :smile:
+<br>
 
 # References
 
