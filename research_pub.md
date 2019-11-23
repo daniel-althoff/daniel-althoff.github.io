@@ -1,4 +1,4 @@
-[Go back](/danielalthoff.github.io)
+[Go back](/)
 ## Scientific publications
 
 **The manuscripts are according to the following format:**<br><br>
