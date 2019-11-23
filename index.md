@@ -4,13 +4,12 @@
 
 ### Dashboards [*...under construction...*]
 
-
 ---
 
 ### Scientific publications 
 - [Access](/pages/research_pub)
 
----
+
 <!--
 [Project 2 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
