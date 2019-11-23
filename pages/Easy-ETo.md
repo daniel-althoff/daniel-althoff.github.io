@@ -34,7 +34,8 @@ This tutorial is on how to run the Easy-ETo app online or with R.
 
 <h6>With R</h6>
 <p>Install the required packages and run the <b>Easy-ETo</b> app</p>
-<b>in R:</b><br>
+<b>in R:</b>
+
 > if (!require("pacman")) install.packages("pacman")<br>
 > pacman::p_load(shiny, readxl, writexl, dplyr, tidyr,  ggplot2, ggpmisc, lubridate, hydroGOF, update=F)<br><br>
 > runGitHub("Easy-ETo", "danielalthoff")<br>
