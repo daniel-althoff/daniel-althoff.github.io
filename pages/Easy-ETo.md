@@ -1,7 +1,7 @@
 [Go back](/)
 
 <div class="fluid-row" id="header">
-    <img src='https://github.com/danielalthoff/Easy-ETo/blob/master/misc/img.png' height='150' width='auto' align='right'>
+    <img src='/images/Easy-ETo/img.png' height='150' width='auto' align='right'>
     <h1 class="title toc-ignore">Easy Reference Evapotranspiration</h1>
     <h4 class="author"><em>Daniel Althoff</em></h4>
 </div>
