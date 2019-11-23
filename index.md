@@ -7,7 +7,7 @@
 
 ---
 
-### Scientific research publications 
+### Scientific publications 
 [Access](/research_pub)
 
 ---
