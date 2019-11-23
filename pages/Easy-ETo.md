@@ -1,7 +1,7 @@
 [Go back](/)
 
 <div class="fluid-row" id="header">
-    <img src='./misc/img.png' height='150' width='auto' align='right'>
+    <img src='https://github.com/danielalthoff/Easy-ETo/blob/master/misc/img.png' height='150' width='auto' align='right'>
     <h1 class="title toc-ignore">Easy Reference Evapotranspiration</h1>
     <h4 class="author"><em>Daniel Althoff</em></h4>
 </div>
@@ -53,7 +53,7 @@ runGitHub("Easy-ETo", "danielalthoff")
 <p> Download the <a href="https://github.com/danielalthoff/Easy-ETo/raw/master/Sample.xlsx" target="blank">template</a> and use it as reference<br>
     Your excel file should look like this:</p>
 
-<img src="./misc/app_2.png"
+<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_2.png"
      style="float: left; margin-right: 10px;" />
      
 <p>Make sure your variables are in the following units:</p>
@@ -72,7 +72,7 @@ runGitHub("Easy-ETo", "danielalthoff")
     <li><b>Data summary</b>: provides boxplots for each meteorological variable and for the different reference evapotranspiration methods</li>
 </ul>
 
-<img src="./misc/app_3.png"
+<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_3.png"
      style="float: left; margin-right: 10px;" />
      
 * <b>Compare ETo methods</b>: provides the reference evapotranspiration methods <em>Time-series</em> and <em>scatterplots</em> with the following metrics:
@@ -82,7 +82,7 @@ runGitHub("Easy-ETo", "danielalthoff")
     * OLS = ordinary least squares regression;
     * FTO = fitted to the origin regression.
     
-<img src="./misc/app_4.png"
+<img src="https://github.com/danielalthoff/Easy-ETo/blob/master/misc/app_4.png"
      style="float: left; margin-right: 10px;" />
 
 <h4>5. Download the Excel file with ETo data</h4>
