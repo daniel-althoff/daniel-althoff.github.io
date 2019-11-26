@@ -1,5 +1,5 @@
 [Go back](/)<br><br>
-<a href='https://github.com/danielalthoff/Easy-ETo/' target='blank'>Easy-ETo GitHub page</a>
+<a href='https://github.com/daniel-althoff/Easy-ETo/' target='blank'>Easy-ETo GitHub page</a>
 
 <div class="fluid-row" id="header">
     <img src='/images/Easy-ETo/img.png' height='150' width='auto' align='right'>
@@ -38,18 +38,18 @@ This tutorial is on how to run the Easy-ETo app online or with R.
 
 > if (!require("pacman")) install.packages("pacman")<br>
 > pacman::p_load(shiny, readxl, writexl, dplyr, tidyr,  ggplot2, ggpmisc, lubridate, hydroGOF, update=F)<br><br>
-> runGitHub("Easy-ETo", "danielalthoff")<br>
+> runGitHub("Easy-ETo", "daniel-althoff")<br>
 
 <img src="/images/Easy-ETo/app_1.png"
      style="float: left; margin-right: 10px;" />
     
 <h4>2. Provide the weather station <b>latitude</b> and <b>altitude</b></h4>
 <p> Latitude should be in decimal (-90 to 90) and altitude in meters (> 0).<br>
-    For this tutorial, we used the sample data available as <a href="https://github.com/danielalthoff/Easy-ETo/raw/master/Sample.xlsx" target="blank">template</a>. This dataset was retrieved from the Brazilian National Institute of Meteorology (<a href='http://www.inmet.gov.br/portal/' target='blank'>INMET</a>) database (<a href="http://www.inmet.gov.br/portal/index.php?r=estacoes/estacoesConvencionais" target='blank'>BA - BARRA</a>) and went through minimal pre-processing.<br><br>
+    For this tutorial, we used the sample data available as <a href="https://github.com/daniel-althoff/Easy-ETo/raw/master/Sample.xlsx" target="blank">template</a>. This dataset was retrieved from the Brazilian National Institute of Meteorology (<a href='http://www.inmet.gov.br/portal/' target='blank'>INMET</a>) database (<a href="http://www.inmet.gov.br/portal/index.php?r=estacoes/estacoesConvencionais" target='blank'>BA - BARRA</a>) and went through minimal pre-processing.<br><br>
     The station's corresponding latitude and altitude are -11.08° and 407.5 meters, respectively</p> 
 
 <h4>3. Prepare your Excel (.xlsx) file</h4>
-<p> Download the <a href="https://github.com/danielalthoff/Easy-ETo/raw/master/Sample.xlsx" target="blank">template</a> and use it as reference<br>
+<p> Download the <a href="https://github.com/daniel-althoff/Easy-ETo/raw/master/Sample.xlsx" target="blank">template</a> and use it as reference<br>
     Your excel file should look like this:</p>
 
 <img src="/images/Easy-ETo/app_2.png"
