@@ -63,7 +63,7 @@ Be careful when comparing the sum of daily to monthly products. The following qu
     
 <p> After the shapefile upload completes, the main panel will render a plot showing the your original shapefile, the buffer, and the average annual precipitation (mm/year) from 1998 to 2017 (20 years). <br>
  For this tutorial, we used the Cerrado biome (Brazil) shapefile as an example. </p> 
-<p>The <b>download button</b> appears once all required information are filled.
+<p>The <b>download button</b> appears once all required information are filled. </p>
   
 <img src="/images/SPP-Down/fig2.png"
      style="float: left; margin-right: 10px;" />
@@ -71,7 +71,7 @@ Be careful when comparing the sum of daily to monthly products. The following qu
 <p><b>Ready? Start download!</b> and check your output directory for a new folder (<em>"SPP_folder"</em>) and if data is being downloaded inside it.</p>
 <p> Files will be saved as SPP_YYYYMMDD.tif (Daily) or SPP_YYYYMM.tif (Monthly), e.g., TRMM data referring to 01-june-1998: TRMM_19980601.tif (Daily) or TRMM_199806.tif (Monthly).</p>
 
-<h3>Enjoy!</h3>
+<h4>Enjoy!</h4>
 <br>
 
 # Acknowledgements
