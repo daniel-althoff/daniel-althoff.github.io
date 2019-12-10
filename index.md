@@ -9,7 +9,7 @@ Easy Reference Evapotranspiration (Easy-ETo) is an App developed with Shiny to c
 <img src='images/Easy-ETo/Easy_ETo_App.png?raw=true'/>
 
 
-- [Satellite Precipitation Products Download]
+- [Satellite Precipitation Products Download](/pages/SPP-Down)<br><br>
 Satellite Precipitation Products Download (SPP-Down) is an App developed with Shiny to download Precipitation Measuring Missions datasets from the Goddard Earth Sciences Data and Information Services Center (GES DISC).
 <img src='https://github.com/daniel-althoff/SPP-Down/raw/master/misc/fig2.png'>
 
