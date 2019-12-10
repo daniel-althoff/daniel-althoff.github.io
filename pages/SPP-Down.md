@@ -72,7 +72,6 @@ Be careful when comparing the sum of daily to monthly products. The following qu
 <p> Files will be saved as SPP_YYYYMMDD.tif (Daily) or SPP_YYYYMM.tif (Monthly), e.g., TRMM data referring to 01-june-1998: TRMM_19980601.tif (Daily) or TRMM_199806.tif (Monthly).</p>
 
 <h3>Enjoy!</h3>
-:smile:
 
 # Acknowledgements
 
