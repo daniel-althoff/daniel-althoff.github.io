@@ -4,14 +4,18 @@
 
 ### Dashboards/Apps 
 - [Easy Reference Evanpotranspiration](/pages/Easy-ETo)<br><br>
-Easy Reference Evapotranspiration (Easy-ETo) is a ShinyApp developed to compute reference evapotranspiration (ETo) according to different methods. <br> 
-After uploading an excel file (.xlsx) containing weather data, the user is prompted with different visualizations of provided data and the option to download computed ETo data.
+Easy Reference Evapotranspiration (Easy-ETo) is an App developed with Shiny to compute reference evapotranspiration (ETo) according to different methods.
+<!--After uploading an excel file (.xlsx) containing weather data, the user is prompted with different visualizations of provided data and the option to download computed ETo data. -->
 <img src='images/Easy-ETo/Easy_ETo_App.png?raw=true'/>
+
+
+- [Satellite Precipitation Products Download]
+Satellite Precipitation Products Download (SPP-Down) is an App developed with Shiny to download Precipitation Measuring Missions datasets from the Goddard Earth Sciences Data and Information Services Center (GES DISC).
+<img src='https://github.com/daniel-althoff/SPP-Down/raw/master/misc/fig2.png'>
 
 ---
 
 ### [Scientific publications](/pages/research_pub)
-- [Access](/pages/research_pub)
 
 
 <!--
