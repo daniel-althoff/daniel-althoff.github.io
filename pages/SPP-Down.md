@@ -50,7 +50,7 @@ Be careful when comparing the sum of daily to monthly products. The following qu
 
 
 <img src="/images/SPP-Down/fig1.png"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" /><br><br>
 
 * <b>Fill all required information</b> 
     * Provide your Earthdata account and password
