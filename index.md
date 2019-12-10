@@ -5,12 +5,12 @@
 ### Dashboards/Apps 
 - [Satellite Precipitation Products Download](/pages/SPP-Down)<br><br>
 Satellite Precipitation Products Download (SPP-Down) is an App developed with Shiny to download Precipitation Measuring Missions datasets from the Goddard Earth Sciences Data and Information Services Center (GES DISC).
-<img src='https://github.com/daniel-althoff/SPP-Down/raw/master/misc/fig2.png'>
+<!-- <img src='https://github.com/daniel-althoff/SPP-Down/raw/master/misc/fig2.png'> -->
 
 - [Easy Reference Evanpotranspiration](/pages/Easy-ETo)<br><br>
 Easy Reference Evapotranspiration (Easy-ETo) is an App developed with Shiny to compute reference evapotranspiration (ETo) according to different methods.
 <!--After uploading an excel file (.xlsx) containing weather data, the user is prompted with different visualizations of provided data and the option to download computed ETo data. -->
-<img src='images/Easy-ETo/Easy_ETo_App.png?raw=true'/>
+<!-- <img src='images/Easy-ETo/Easy_ETo_App.png?raw=true'/> -->
 
 ---
 
