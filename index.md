@@ -1,4 +1,4 @@
-## Portfolio [*...under construction...*]
+## [*...under construction...*]
 
 ---
 
@@ -14,7 +14,7 @@ Easy Reference Evapotranspiration (Easy-ETo) is an App developed with Shiny to c
 
 ---
 
-### [Scientific publications](/pages/research_pub)
+### [Scientific publications](https://scholar.google.com/citations?hl=pt-BR&user=DZ1IIrgAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 <!--
