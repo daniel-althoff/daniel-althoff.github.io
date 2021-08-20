@@ -12,6 +12,13 @@ Easy Reference Evapotranspiration (Easy-ETo) is an App developed with Shiny to c
 <!--After uploading an excel file (.xlsx) containing weather data, the user is prompted with different visualizations of provided data and the option to download computed ETo data. -->
 <!-- <img src='images/Easy-ETo/Easy_ETo_App.png?raw=true'/> -->
 
+
+---
+
+### Dashboards/Apps 
+- [HydroCerrado](https://github.com/daniel-althoff/HydroCerrado)
+The HydroCerrado is a regional-sample data set for catchments within the Cerrado biome. It includes data from gauge stations, catchment boundaries, daily streamflow series, daily time series of meteorological forcing (precipitation and reference evapotranspiration), and catchment attributes.
+
 ---
 
 ### [Scientific publications](https://scholar.google.com/citations?hl=pt-BR&user=DZ1IIrgAAAAJ&view_op=list_works&sortby=pubdate)
