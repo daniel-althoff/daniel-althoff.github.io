@@ -15,7 +15,7 @@ Easy Reference Evapotranspiration (Easy-ETo) is an App developed with Shiny to c
 
 ---
 
-### Dashboards/Apps 
+### Datasets 
 - [HydroCerrado](https://github.com/daniel-althoff/HydroCerrado)
 The HydroCerrado is a regional-sample data set for catchments within the Cerrado biome. It includes data from gauge stations, catchment boundaries, daily streamflow series, daily time series of meteorological forcing (precipitation and reference evapotranspiration), and catchment attributes.
 
