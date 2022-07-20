@@ -15,7 +15,7 @@ The HydroCerrado is a regional-sample data set for catchments within the Cerrado
 
 ---
 
-### [Scientific publications](https://scholar.google.com/citations?hl=pt-BR&user=DZ1IIrgAAAAJ&view_op=list_works&sortby=pubdate)
+### <a href='https://scholar.google.com/citations?hl=pt-BR&user=DZ1IIrgAAAAJ&view_op=list_works&sortby=pubdate' target='blank'>Scientific publications</a>
 
 
 <!--
