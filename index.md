@@ -2,6 +2,12 @@
 
 ---
 
+### Open-source projects 
+- **hydroversebr**<br><br>
+The long-term objective of <a href='https://github.com/hydroversebr/' target='blank'>hydroversebr</a> is to provide a collection of R packages designed to support hydrological analyses and modeling. 
+
+---
+
 ### Dashboards/Apps 
 - [Satellite Precipitation Products Download](/pages/SPP-Down)<br><br>
 Satellite Precipitation Products Download (SPP-Down) is an App developed with Shiny to download Precipitation Measuring Missions datasets from the Goddard Earth Sciences Data and Information Services Center (GES DISC).
