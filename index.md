@@ -3,7 +3,7 @@
 ---
 
 ### Open-source projects 
-- **hydroversebr**<br><br>
+- **hydroversebr**<br>
 The long-term objective of <a href='https://github.com/hydroversebr/' target='blank'>hydroversebr</a> is to provide a collection of R packages designed to support hydrological analyses and modeling. 
 
 ---
